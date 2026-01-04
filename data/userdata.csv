@@ -1,0 +1,28 @@
+aragorn_elessar,student,ranger,0,0
+boromir_gondor,student,honor,0,0
+don_vito_corleone,student,italia,0,1
+borrow,don_vito_corleone,ISBN001,2025-07-03 01:27:33
+fredo_corleone,student,weak,0,0
+frodo_baggins,student,ring,0,0
+galadriel,faculty,lothlorien,0,0
+gandalf_the_grey,faculty,wizard,0,0
+gimli_son_of_gloin,student,axe,0,0
+gollum,student,precious,0,0
+hank_schrader,faculty,minerals,0,0
+jesse_pinkman,student,yo,0,0
+legolas_greenleaf,student,archer,0,0
+michael_corleone,student,sicily,0,0
+sahil,student,haha,0,0
+samwise_gamgee,student,loyalty,0,0
+saruman,faculty,traitor,0,0
+saul_goodman,student,lawyer,0,0
+skyler_white,student,accountant,0,0
+sonny_corleone,student,temper,0,0
+tom_hagen,faculty,advisor,0,0
+walter_white,faculty,heisenberg,1,5
+ISBN012,1756671113
+borrow,walter_white,ISBN012,2025-07-03 01:36:56
+borrow,walter_white,ISBN013,2025-07-03 01:37:01
+return,walter_white,ISBN012,2025-07-03 01:37:53
+return,walter_white,ISBN013,2025-07-03 01:37:59
+borrow,walter_white,ISBN012,2025-07-03 01:41:53

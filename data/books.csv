@@ -1,0 +1,18 @@
+Genre,Title,Author,Publisher,Year,ISBN,status
+Self-Help,The Power of Now,Eckhart Tolle,New World Library,1997,ISBN020,Available
+Mathematics,Introduction to Algorithms,Thomas Cormen,MIT Press,2009,ISBN016,Available
+Mathematics,Principles of Mathematical Analysis,Walter Rudin,McGraw Hill,1976,ISBN015,Available
+Mathematics,Calculus,James Stewart,Cengage Learning,2015,ISBN014,Available
+Mathematics,Linear Algebra,Gilbert Strang,Cambridge Press,2009,ISBN013,Available
+Chemistry,Organic Chemistry,L G Wade,Pearson,2016,ISBN012,Not Available
+Chemistry,Physical Chemistry,Peter Atkins,Oxford University Press,2018,ISBN011,Available
+Physics,Quantum Physics of Atoms Molecules Solids Nuclei and Particles,Robert Eisberg,John Wiley and Sons,2010,ISBN010,Available
+Physics,Quantum Mechanics,David Griffiths,Cambridge University Press,2017,ISBN009,Available
+Physics,Modern Physics,Raymond Serway,Cengage Learning,2014,ISBN008,Available
+Physics,Quantum Physics,Robert Eisberg,John Wiley and Sons,2009,ISBN007,Available
+Physics,Concepts of Physics,HC Verma,Bharati Bhavan,2004,ISBN006,Available
+Physics,University Physics,Hugh Young,Pearson,2019,ISBN005,Available
+Fantasy,The Return of the King,J R R Tolkien,Allen and Unwin,1955,ISBN004,Available
+Fantasy,The Two Towers,J R R Tolkien,Allen and Unwin,1954,ISBN003,Available
+Fantasy,The Fellowship of the Ring,J R R Tolkien,Allen and Unwin,1954,ISBN002,Available
+Crime,The Godfather,Mario Puzo,G P Putnams Sons,1969,ISBN001,Not Available

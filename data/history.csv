@@ -1,0 +1,5 @@
+borrow,walter_white,ISBN012,2025-07-03 01:36:56
+borrow,walter_white,ISBN013,2025-07-03 01:37:01
+return,walter_white,ISBN012,2025-07-03 01:37:53
+return,walter_white,ISBN013,2025-07-03 01:37:59
+borrow,walter_white,ISBN012,2025-07-03 01:41:53
