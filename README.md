@@ -65,5 +65,5 @@ transaction_type,username,isbn,YYYY-MM-DD HH:MM:SS
 👨‍💻 Author
 
 Vibhu Yadav
-Undergraduate, Electrical Engineering
+Undergraduate, Civil Engineering
 Indian Institute of Technology, Kanpur
